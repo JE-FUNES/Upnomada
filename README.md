@@ -3,11 +3,11 @@ _nueva versión del sitio 2024_
 
 ### Diseño y desarrollo Front-end: ${\color{violet}Julia Funes}$ |  [www.jefa-web.com.ar](https://www.jefa-web.com.ar)
 Sección Administrador:
-![sección administrador](src/assets/images/Admin.png)
+![sección administrador](Admin.png)
 Dark-mode:
-![darkMode](src/assets/images/Dark-Mode.png)
+![darkMode](Dark-Mode.png)
 Diseño Responsive:
-![responsive](src/assets/images/Responsive.png)
+![responsive](Responsive.png)
 ## El proyecto ofrece ofertas de vuelo desde y hacia México.
 **Se accede mediante suscripción paga, que se renueva mensualmente.**
 
