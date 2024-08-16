@@ -1,6 +1,8 @@
 # ${\color{lightblue}UPNOMADA.COM}$
 _nueva versión del sitio 2024_
 
+#### _El repositorio original es privado, pero en este Readme se puede ver el detalle de lo realizado para este proyecto._
+
 ### Diseño y desarrollo Front-end: ${\color{violet}Julia Funes}$ |  [www.jefa-web.com.ar](https://www.jefa-web.com.ar)
 Sección Administrador:
 ![sección administrador](Admin.png)
